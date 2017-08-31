@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="title_text_size">24dip</dimen>
+    <dimen name="caption_text_size">12dip</dimen>
+    <dimen name="paragragh_text_size">15dip</dimen>
+</resources>
